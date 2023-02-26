@@ -1,0 +1,786 @@
+city,census
+New York city New York,8175133
+Los Angeles city California,3792621
+Chicago city Illinois,2695598
+Houston city Texas,2099451
+Phoenix city Arizona,1445632
+Philadelphia city Pennsylvania,1526006
+San Antonio city Texas,1327407
+San Diego city California,1307402
+Dallas city Texas,1197816
+San Jose city California,945942
+Austin city Texas,790390
+Jacksonville city Florida,821784
+Fort Worth city Texas,741206
+Columbus city Ohio,787033
+Charlotte city North Carolina,731424
+San Francisco city California,805235
+Indianapolis city (balance) Indiana,820445
+Seattle city Washington,608660
+Denver city Colorado,600158
+Washington city District of Columbia,601723
+Boston city Massachusetts,617594
+El Paso city Texas,649121
+Nashville-Davidson metropolitan government (balance) Tennessee,601222
+Detroit city Michigan,713777
+Oklahoma City city Oklahoma,579999
+Portland city Oregon,583776
+Las Vegas city Nevada,583756
+Memphis city Tennessee,646889
+Louisville/Jefferson County metro government (balance) Kentucky,597337
+Baltimore city Maryland,620961
+Milwaukee city Wisconsin,594833
+Albuquerque city New Mexico,545852
+Tucson city Arizona,520116
+Fresno city California,494665
+Mesa city Arizona,439041
+Sacramento city California,466488
+Atlanta city Georgia,420003
+Kansas City city Missouri,459787
+Colorado Springs city Colorado,416427
+Omaha city Nebraska,408958
+Raleigh city North Carolina,403892
+Miami city Florida,399457
+Long Beach city California,462257
+Virginia Beach city Virginia,437994
+Oakland city California,390724
+Minneapolis city Minnesota,382578
+Tulsa city Oklahoma,391906
+Tampa city Florida,335709
+Arlington city Texas,365438
+New Orleans city Louisiana,343829
+Wichita city Kansas,382368
+Bakersfield city California,347483
+Cleveland city Ohio,396815
+Aurora city Colorado,325078
+Anaheim city California,336265
+Urban Honolulu CDP Hawaii,337256
+Santa Ana city California,324528
+Riverside city California,303871
+Corpus Christi city Texas,305215
+Lexington-Fayette urban county Kentucky,295803
+Henderson city Nevada,257729
+Stockton city California,291707
+St. Paul city Minnesota,285068
+Cincinnati city Ohio,296943
+St. Louis city Missouri,319294
+Pittsburgh city Pennsylvania,305704
+Greensboro city North Carolina,269666
+Lincoln city Nebraska,258379
+Anchorage municipality Alaska,291826
+Plano city Texas,259841
+Orlando city Florida,238300
+Irvine city California,212375
+Newark city New Jersey,277140
+Durham city North Carolina,228330
+Chula Vista city California,243916
+Toledo city Ohio,287208
+Fort Wayne city Indiana,253691
+St. Petersburg city Florida,244769
+Laredo city Texas,236091
+Jersey City city New Jersey,247597
+Chandler city Arizona,236123
+Madison city Wisconsin,233209
+Lubbock city Texas,229573
+Scottsdale city Arizona,217385
+Reno city Nevada,225221
+Buffalo city New York,261310
+Gilbert town Arizona,208453
+Glendale city Arizona,226721
+North Las Vegas city Nevada,216961
+Winston-Salem city North Carolina,229617
+Chesapeake city Virginia,222209
+Norfolk city Virginia,242803
+Fremont city California,214089
+Garland city Texas,226876
+Irving city Texas,216290
+Hialeah city Florida,224669
+Richmond city Virginia,204214
+Boise City city Idaho,205671
+Spokane city Washington,208916
+Baton Rouge city Louisiana,229493
+Tacoma city Washington,198397
+San Bernardino city California,209924
+Modesto city California,201165
+Fontana city California,196069
+Des Moines city Iowa,203433
+Moreno Valley city California,193365
+Santa Clarita city California,176320
+Fayetteville city North Carolina,200564
+Birmingham city Alabama,212237
+Oxnard city California,197899
+Rochester city New York,210565
+Port St. Lucie city Florida,164603
+Grand Rapids city Michigan,188040
+Huntsville city Alabama,180105
+Salt Lake City city Utah,186440
+Frisco city Texas,116989
+Yonkers city New York,195976
+Amarillo city Texas,190695
+Glendale city California,191719
+Huntington Beach city California,189992
+McKinney city Texas,131117
+Montgomery city Alabama,205764
+Augusta-Richmond County consolidated government (balance) Georgia,195844
+Aurora city Illinois,197899
+Akron city Ohio,199110
+Little Rock city Arkansas,193524
+Tempe city Arizona,161719
+Columbus city Georgia,189885
+Overland Park city Kansas,173372
+Grand Prairie city Texas,175396
+Tallahassee city Florida,181376
+Cape Coral city Florida,154305
+Mobile city Alabama,195111
+Knoxville city Tennessee,178874
+Shreveport city Louisiana,199311
+Worcester city Massachusetts,181045
+Ontario city California,163924
+Vancouver city Washington,161791
+Sioux Falls city South Dakota,153888
+Chattanooga city Tennessee,167674
+Brownsville city Texas,175023
+Fort Lauderdale city Florida,165521
+Providence city Rhode Island,178042
+Newport News city Virginia,180719
+Rancho Cucamonga city California,165269
+Santa Rosa city California,167815
+Peoria city Arizona,154065
+Oceanside city California,167086
+Elk Grove city California,153015
+Salem city Oregon,154637
+Pembroke Pines city Florida,154750
+Eugene city Oregon,156185
+Garden Grove city California,170883
+Cary town North Carolina,135234
+Fort Collins city Colorado,143986
+Corona city California,152374
+Springfield city Missouri,159498
+Jackson city Mississippi,173514
+Alexandria city Virginia,139966
+Hayward city California,144186
+Clarksville city Tennessee,132929
+Lakewood city Colorado,142980
+Lancaster city California,156633
+Salinas city California,150441
+Palmdale city California,152750
+Hollywood city Florida,140768
+Springfield city Massachusetts,153060
+Macon-Bibb County Georgia,(X)
+Kansas City city Kansas,145786
+Sunnyvale city California,140081
+Pomona city California,149058
+Killeen city Texas,127921
+Escondido city California,143911
+Pasadena city Texas,149043
+Naperville city Illinois,141853
+Bellevue city Washington,122363
+Joliet city Illinois,147433
+Murfreesboro city Tennessee,108755
+Midland city Texas,111147
+Rockford city Illinois,152871
+Paterson city New Jersey,146199
+Savannah city Georgia,136286
+Bridgeport city Connecticut,144229
+Torrance city California,145438
+McAllen city Texas,129877
+Syracuse city New York,145170
+Surprise city Arizona,117517
+Denton city Texas,113383
+Roseville city California,118788
+Thornton city Colorado,118772
+Miramar city Florida,122041
+Pasadena city California,137122
+Mesquite city Texas,139824
+Olathe city Kansas,125872
+Dayton city Ohio,141527
+Carrollton city Texas,119097
+Waco city Texas,124805
+Orange city California,136416
+Fullerton city California,135161
+Charleston city South Carolina,120083
+West Valley City city Utah,129480
+Visalia city California,124442
+Hampton city Virginia,137436
+Gainesville city Florida,124354
+Warren city Michigan,134056
+Coral Springs city Florida,121096
+Cedar Rapids city Iowa,126326
+Round Rock city Texas,99887
+Sterling Heights city Michigan,129699
+Kent city Washington,92411
+Columbia city South Carolina,129272
+Santa Clara city California,116468
+New Haven city Connecticut,129779
+Stamford city Connecticut,122643
+Concord city California,122067
+Elizabeth city New Jersey,124969
+Athens-Clarke County unified government (balance) Georgia,115452
+Thousand Oaks city California,126683
+Lafayette city Louisiana,120623
+Simi Valley city California,124237
+Topeka city Kansas,127473
+Norman city Oklahoma,110925
+Fargo city North Dakota,105549
+Wilmington city North Carolina,106476
+Abilene city Texas,117063
+Odessa city Texas,99940
+Columbia city Missouri,108500
+Pearland city Texas,91252
+Victorville city California,115903
+Hartford city Connecticut,124775
+Vallejo city California,115942
+Allentown city Pennsylvania,118032
+Berkeley city California,112580
+Richardson city Texas,99223
+Arvada city Colorado,106433
+Ann Arbor city Michigan,113934
+Rochester city Minnesota,106769
+Cambridge city Massachusetts,105162
+Sugar Land city Texas,78817
+Lansing city Michigan,114297
+Evansville city Indiana,117429
+College Station city Texas,93857
+Fairfield city California,105321
+Clearwater city Florida,107685
+Beaumont city Texas,118296
+Independence city Missouri,116830
+Provo city Utah,112488
+West Jordan city Utah,103712
+Murrieta city California,103466
+Palm Bay city Florida,103190
+El Monte city California,113475
+Carlsbad city California,105328
+North Charleston city South Carolina,97471
+Temecula city California,100097
+Clovis city California,95631
+Springfield city Illinois,116250
+Meridian city Idaho,75092
+Westminster city Colorado,106114
+Costa Mesa city California,109960
+High Point city North Carolina,104371
+Manchester city New Hampshire,109565
+Pueblo city Colorado,106595
+Lakeland city Florida,97422
+Pompano Beach city Florida,99845
+West Palm Beach city Florida,99919
+Antioch city California,102372
+Everett city Washington,103019
+Downey city California,111772
+Lowell city Massachusetts,106519
+Centennial city Colorado,100377
+Elgin city Illinois,108188
+Richmond city California,103701
+Peoria city Illinois,115007
+Broken Arrow city Oklahoma,98850
+Miami Gardens city Florida,107167
+Billings city Montana,104170
+Jurupa Valley city California,(X)
+Sandy Springs city Georgia,93853
+Gresham city Oregon,105594
+Lewisville city Texas,95290
+Hillsboro city Oregon,91611
+San Buenaventura (Ventura) city California,106433
+Greeley city Colorado,92889
+Inglewood city California,109673
+Waterbury city Connecticut,110366
+League City city Texas,83560
+Santa Maria city California,99553
+Tyler city Texas,96900
+Davie town Florida,91992
+Daly City city California,101123
+Boulder city Colorado,97385
+Allen city Texas,84246
+West Covina city California,106098
+Sparks city Nevada,90264
+Wichita Falls city Texas,104553
+Green Bay city Wisconsin,104057
+San Mateo city California,97207
+Norwalk city California,105549
+Rialto city California,99171
+Las Cruces city New Mexico,97618
+Chico city California,86187
+El Cajon city California,99478
+Burbank city California,103340
+South Bend city Indiana,101168
+Renton city Washington,90927
+Vista city California,93834
+Davenport city Iowa,99685
+Edinburg city Texas,77100
+Tuscaloosa city Alabama,90468
+Carmel city Indiana,79191
+Spokane Valley city Washington,89755
+San Angelo city Texas,93200
+Vacaville city California,92428
+Bend city Oregon,76639
+Kenosha city Wisconsin,99218
+Boca Raton city Florida,84392
+Lee's Summit city Missouri,91364
+Nampa city Idaho,81557
+Rio Rancho city New Mexico,87521
+South Fulton city Georgia,(X)
+Roanoke city Virginia,97032
+Beaverton city Oregon,89803
+Yuma city Arizona,93064
+Lawrence city Kansas,87643
+Orem city Utah,88328
+Longmont city Colorado,86270
+San Marcos city California,83781
+Albany city New York,97856
+Sandy city Utah,87461
+Concord city North Carolina,79066
+Federal Way city Washington,89306
+Hesperia city California,90173
+Brockton city Massachusetts,93810
+Compton city California,96455
+Flint city Michigan,102434
+Erie city Pennsylvania,101786
+New Bedford city Massachusetts,95072
+Fishers city Indiana,76794
+Sunrise city Florida,84439
+Roswell city Georgia,88346
+Menifee city California,77519
+Tracy city California,82922
+Plantation city Florida,84955
+Quincy city Massachusetts,92271
+Portsmouth city Virginia,95535
+Mission Viejo city California,93305
+Chino city California,77983
+Lynn city Massachusetts,90329
+Edmond city Oklahoma,81405
+Dearborn city Michigan,98153
+Livonia city Michigan,96942
+Yakima city Washington,91067
+South Gate city California,94396
+Greenville city North Carolina,84554
+Lawton city Oklahoma,96867
+Kirkland city Washington,48787
+Asheville city North Carolina,83393
+Deltona city Florida,85182
+Redding city California,89861
+Bellingham city Washington,80885
+Suffolk city Virginia,84585
+Indio city California,76036
+Mount Pleasant town South Carolina,67843
+Carson city California,91714
+Santa Barbara city California,88410
+Conroe city Texas,56207
+Westminster city California,89701
+Santa Monica city California,89736
+New Braunfels city Texas,57740
+Livermore city California,80968
+Palm Coast city Florida,75180
+St. George city Utah,72897
+Fall River city Massachusetts,88857
+Nashua city New Hampshire,86494
+Champaign city Illinois,81055
+Miami Beach city Florida,87779
+Norwalk city Connecticut,85603
+San Leandro city California,84950
+O'Fallon city Missouri,79329
+Newton city Massachusetts,85146
+Reading city Pennsylvania,88082
+Avondale city Arizona,76238
+Fort Smith city Arkansas,86209
+Citrus Heights city California,83301
+Ogden city Utah,82825
+Fayetteville city Arkansas,73580
+Fort Myers city Florida,62298
+Goodyear city Arizona,65275
+Bryan city Texas,76201
+Waukegan city Illinois,89078
+Hawthorne city California,84293
+Redwood City city California,76815
+Hoover city Alabama,81619
+Bloomington city Indiana,80405
+Duluth city Minnesota,86265
+Lake Forest city California,77264
+Hemet city California,78657
+Whittier city California,85331
+Clifton city New Jersey,84136
+Largo city Florida,77648
+Bloomington city Minnesota,82893
+Danbury city Connecticut,80893
+Santa Fe city New Mexico,67947
+Johns Creek city Georgia,76728
+Newport Beach city California,85186
+Kennewick city Washington,73917
+Mission city Texas,77058
+Milpitas city California,66790
+Troy city Michigan,80980
+Chino Hills city California,74799
+Alhambra city California,83089
+Merced city California,78958
+Trenton city New Jersey,84913
+Franklin city Tennessee,62487
+Medford city Oregon,74907
+Melbourne city Florida,76068
+Manteca city California,67096
+Mountain View city California,74066
+Sioux City city Iowa,82684
+Lynchburg city Virginia,75568
+Buena Park city California,80530
+Pleasanton city California,70285
+Longview city Texas,80455
+Westland city Michigan,84094
+Auburn city Washington,70180
+Cranston city Rhode Island,80387
+Somerville city Massachusetts,75754
+Folsom city California,72203
+Springdale city Arkansas,69797
+Deerfield Beach city Florida,75018
+Warwick city Rhode Island,82672
+Cicero town Illinois,83891
+Farmington Hills city Michigan,79740
+Brooklyn Park city Minnesota,75781
+Lawrence city Massachusetts,76377
+Plymouth city Minnesota,70576
+Buckeye city Arizona,50876
+Georgetown city Texas,47400
+Cedar Park city Texas,48937
+Tustin city California,75540
+Lakewood city California,80048
+Perris city California,68386
+Flower Mound town Texas,64669
+Pharr city Texas,70400
+Loveland city Colorado,66859
+Boynton Beach city Florida,68217
+New Rochelle city New York,77062
+Temple city Texas,66102
+Lake Charles city Louisiana,71993
+Jonesboro city Arkansas,67263
+Napa city California,76915
+Parma city Ohio,81601
+Layton city Utah,67311
+Alameda city California,73812
+Warner Robins city Georgia,66588
+Rapid City city South Dakota,67956
+Bloomington city Illinois,76610
+Gastonia city North Carolina,71741
+Baytown city Texas,71802
+Upland city California,73732
+Racine city Wisconsin,78860
+Scranton city Pennsylvania,76089
+South Jordan city Utah,50418
+Bellflower city California,76616
+Kalamazoo city Michigan,74262
+San Ramon city California,72148
+Bethlehem city Pennsylvania,74982
+Wyoming city Michigan,72125
+Hammond city Indiana,80830
+Missoula city Montana,66788
+Missouri City city Texas,67358
+Pasco city Washington,59781
+Baldwin Park city California,75390
+Iowa City city Iowa,67862
+Rancho Cordova city California,64776
+Rock Hill city South Carolina,66154
+Flagstaff city Arizona,65870
+Gary city Indiana,80294
+St. Joseph city Missouri,76780
+Arlington Heights village Illinois,75101
+Bolingbrook village Illinois,73366
+Rochester Hills city Michigan,70995
+Framingham city Massachusetts,(X)
+Union City city California,69516
+Appleton city Wisconsin,72623
+Turlock city California,68549
+Camden city New Jersey,77344
+Bismarck city North Dakota,61272
+Evanston city Illinois,74486
+Apple Valley town California,69135
+Schaumburg village Illinois,74227
+Woodbury city Minnesota,61961
+Kissimmee city Florida,59682
+Southfield city Michigan,71739
+Maple Grove city Minnesota,61567
+Pittsburg city California,63264
+New Britain city Connecticut,73206
+Jacksonville city North Carolina,70145
+Mansfield city Texas,56368
+Waukesha city Wisconsin,70718
+Frederick city Maryland,65239
+Albany city Georgia,77434
+Pawtucket city Rhode Island,71148
+Redmond city Washington,54144
+Lauderhill city Florida,66887
+Lafayette city Indiana,67140
+Gulfport city Mississippi,67793
+Redlands city California,68747
+Weston city Florida,65333
+St. Charles city Missouri,65794
+Decatur city Illinois,76122
+North Port city Florida,57357
+North Richland Hills city Texas,63343
+Greenville city South Carolina,58409
+Bowling Green city Kentucky,58067
+Broomfield city Colorado,55889
+Canton city Ohio,73007
+Marysville city Washington,60020
+Walnut Creek city California,64173
+Wilmington city Delaware,70851
+Camarillo city California,65201
+Lynwood city California,69772
+Lehi city Utah,47407
+Passaic city New Jersey,69781
+Homestead city Florida,60512
+Delray Beach city Florida,60522
+Davis city California,65622
+Lake Elsinore city California,51821
+Daytona Beach city Florida,61005
+Dothan city Alabama,65496
+Rocklin city California,56974
+Eau Claire city Wisconsin,65883
+Rogers city Arkansas,55964
+Castle Rock town Colorado,48231
+St. Cloud city Minnesota,65842
+Bossier City city Louisiana,61315
+Rockville city Maryland,61209
+Muncie city Indiana,70085
+Gaithersburg city Maryland,59933
+Union City city New Jersey,66455
+West Des Moines city Iowa,56609
+South San Francisco city California,63632
+Yorba Linda city California,64234
+Conway city Arkansas,58908
+Lodi city California,62134
+Palatine village Illinois,68557
+Ankeny city Iowa,45582
+Mount Vernon city New York,67292
+Rowlett city Texas,56199
+Waterloo city Iowa,68406
+Lakeville city Minnesota,55954
+Alpharetta city Georgia,57551
+Jackson city Tennessee,65211
+Yuba City city California,64925
+Oshkosh city Wisconsin,66083
+Victoria city Texas,62592
+Johnson City city Tennessee,63152
+Redondo Beach city California,66748
+Tamarac city Florida,60427
+Laguna Niguel city California,62979
+Eagan city Minnesota,64206
+Kenner city Louisiana,66702
+Auburn city Alabama,53380
+Ames city Iowa,58965
+Portland city Maine,66194
+North Little Rock city Arkansas,62304
+Sammamish city Washington,45780
+Madera city California,61416
+Shawnee city Kansas,62209
+Jupiter town Florida,55156
+Doral city Florida,45704
+Blaine city Minnesota,57186
+Tulare city California,59278
+Youngstown city Ohio,66982
+Wellington village Florida,56508
+Pflugerville city Texas,46936
+Palo Alto city California,64403
+Schenectady city New York,66135
+Harlingen city Texas,64849
+Bayonne city New Jersey,63024
+Eden Prairie city Minnesota,60797
+Port Orange city Florida,56048
+Dublin city California,46036
+San Marcos city Texas,44894
+Noblesville city Indiana,51969
+Santa Cruz city California,59946
+Janesville city Wisconsin,63575
+San Clemente city California,63522
+Brentwood city California,51481
+East Orange city New Jersey,64270
+Cheyenne city Wyoming,59466
+Eastvale city California,(X)
+Chapel Hill town North Carolina,57233
+Haverhill city Massachusetts,60879
+Lorain city Ohio,64097
+Grand Junction city Colorado,58566
+Springfield city Oregon,59403
+Coon Rapids city Minnesota,61476
+Idaho Falls city Idaho,56813
+North Miami city Florida,58786
+Encinitas city California,59518
+Skokie village Illinois,64784
+Leander city Texas,26521
+Waltham city Massachusetts,60632
+Council Bluffs city Iowa,62230
+Hamilton city Ohio,62477
+Moore city Oklahoma,55081
+Pico Rivera city California,62942
+Montebello city California,62500
+Millcreek city Utah,(X)
+Sanford city Florida,53570
+National City city California,58582
+Burnsville city Minnesota,60306
+Coconut Creek city Florida,52909
+Lakewood city Washington,58163
+Taylor city Michigan,63131
+Novi city Michigan,55224
+Marietta city Georgia,56579
+Ocala city Florida,56315
+Terre Haute city Indiana,60785
+Woodland city California,55468
+Petaluma city California,57941
+La Habra city California,60239
+Malden city Massachusetts,59450
+Commerce City city Colorado,45913
+Owensboro city Kentucky,57265
+Bristol city Connecticut,60477
+West Allis city Wisconsin,60411
+Taylorsville city Utah,58652
+Utica city New York,62235
+Monterey Park city California,60269
+Bonita Springs city Florida,43914
+Porterville city California,54165
+Greenwood city Indiana,49791
+Bartlett city Tennessee,54613
+Bradenton city Florida,49546
+Vineland city New Jersey,60724
+Pontiac city Michigan,59515
+Meriden city Connecticut,60868
+Gardena city California,58829
+Apex town North Carolina,37476
+Royal Oak city Michigan,57236
+Cupertino city California,58302
+Lancaster city Pennsylvania,59322
+La Mesa city California,57065
+Gilroy city California,48821
+St. Clair Shores city Michigan,59715
+Des Plaines city Illinois,58364
+Springfield city Ohio,60608
+Corvallis city Oregon,54462
+Margate city Florida,53284
+Bowie city Maryland,54727
+Casa Grande city Arizona,48571
+Caldwell city Idaho,46237
+San Rafael city California,57713
+Great Falls city Montana,58505
+Sarasota city Florida,51917
+Richland city Washington,48058
+St. Peters city Missouri,52575
+Hendersonville city Tennessee,51372
+White Plains city New York,56853
+Huntersville town North Carolina,46773
+Santee city California,53413
+Kokomo city Indiana,45468
+Arcadia city California,56364
+Casper city Wyoming,55316
+Dubuque city Iowa,57637
+Orland Park village Illinois,56767
+Weymouth Town city Massachusetts,53743
+Parker town Colorado,45297
+Palm Beach Gardens city Florida,48452
+Hanford city California,53967
+Huntington Park city California,58114
+Taunton city Massachusetts,55874
+Midwest City city Oklahoma,54371
+Medford city Massachusetts,56173
+Euless city Texas,51277
+Shoreline city Washington,53007
+Smyrna city Georgia,51271
+Pocatello city Idaho,54255
+Valdosta city Georgia,54518
+Carson City Nevada,55274
+Lake Havasu City city Arizona,52527
+Grand Forks city North Dakota,52838
+Blue Springs city Missouri,52575
+Southaven city Mississippi,48982
+Tinley Park village Illinois,56703
+Diamond Bar city California,55544
+New Brunswick city New Jersey,55181
+Lenexa city Kansas,48190
+Brookhaven city Georgia,(X)
+Novato city California,51904
+Tigard city Oregon,48035
+Highland city California,53104
+Fountain Valley city California,55313
+Dearborn Heights city Michigan,57774
+Albany city Oregon,50158
+Grapevine city Texas,46334
+Apple Valley city Minnesota,49084
+Chicopee city Massachusetts,55298
+Hempstead village New York,53891
+Oak Lawn village Illinois,56690
+Cathedral City city California,51200
+Bentonville city Arkansas,35301
+Stonecrest city Georgia,(X)
+Kettering city Ohio,56163
+Colton city California,52154
+Anderson city Indiana,56129
+West Haven city Connecticut,55564
+Burlington city North Carolina,49963
+Manhattan city Kansas,52281
+St. Cloud city Florida,35183
+Normal town Illinois,52497
+Decatur city Alabama,55683
+Berwyn city Illinois,56657
+Port Arthur city Texas,53818
+Kingsport city Tennessee,48205
+Minnetonka city Minnesota,49734
+Rosemead city California,53764
+Paramount city California,54098
+Rocky Mount city North Carolina,57477
+Yucaipa city California,51367
+Watsonville city California,51199
+Elyria city Ohio,54533
+Leesburg town Virginia,42616
+Mount Prospect village Illinois,54167
+Pinellas Park city Florida,49079
+Delano city California,53041
+Bellevue city Nebraska,50137
+West Sacramento city California,48744
+Apopka city Florida,41542
+Palm Desert city California,48445
+Milford city (balance) Connecticut,51271
+Little Elm city Texas,25898
+Revere city Massachusetts,51755
+Peabody city Massachusetts,51251
+Wylie city Texas,41427
+Harrisonburg city Virginia,48914
+DeSoto city Texas,49047
+Pensacola city Florida,51923
+Olympia city Washington,46478
+Edina city Minnesota,47941
+Wheaton city Illinois,52894
+West New York town New Jersey,49708
+Hoboken city New Jersey,50005
+Lacey city Washington,42393
+Summerville town South Carolina,43392
+Coeur d'Alene city Idaho,44137
+Oak Park village Illinois,51878
+Elkhart city Indiana,50949
+Maricopa city Arizona,43482
+Kentwood city Michigan,48707
+Madison city Alabama,42938
+Smyrna town Tennessee,39974
+Glendora city California,50073
+Logan city Utah,48174
+Burien city Washington,33313
+Perth Amboy city New Jersey,50814
+Herriman city Utah,21785
+Grand Island city Nebraska,48520
+Placentia city California,50533
+La Crosse city Wisconsin,51320
+Battle Creek city Michigan,52347
+Beaumont city California,36877
+Collierville town Tennessee,43965
+West Lafayette city Indiana,29596
+Florissant city Missouri,52158
+Hoffman Estates village Illinois,51895
+Joplin city Missouri,50150
+Queen Creek town Arizona,26361
+Aliso Viejo city California,47823
+Kannapolis city North Carolina,42625
+Methuen Town city Massachusetts,47255
+Galveston city Texas,47743
+Mishawaka city Indiana,48252
+Plainfield city New Jersey,49808
+Newark city Ohio,47573
+Stillwater city Oklahoma,45688
+Twin Falls city Idaho,44125
+Texas City city Texas,45099
+Cerritos city California,49041
+Coral Gables city Florida,46780
+Enid city Oklahoma,49379
+Lakewood city Ohio,52131
+Troy city New York,50129
